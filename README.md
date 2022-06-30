@@ -1,2 +1,3 @@
 # farmsafeproject
-Prediction of suitable crop based on conditions given
+Prediction of suitable crop & fertilizer based on conditions given
+.
